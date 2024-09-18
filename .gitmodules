@@ -1,0 +1,3 @@
+[submodule "Oil_spill_frontend"]
+	path = Oil_spill_frontend
+	url = https://github.com/Dexterchhoria/oil-spill-main
